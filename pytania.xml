@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<test>
+    <pytanie id = "1">
+        <tresc>Kto wynalazł telefon?</tresc>
+        <odpowiedzi>
+            <A>a. Tony Stark</A>
+            <B>b. Alexander Graham Bell</B>
+			<C>c. Thomas Alva Edison</C>
+			<D>d. Nikola Tesla</D>
+        </odpowiedzi>
+        <prawidlowa>b. Alexander Graham Bell</prawidlowa>
+    </pytanie>
+    <pytanie id = "2">
+        <tresc>sad?</tresc>
+        <odpowiedzi>
+            <A>a. Tony Stark</A>
+            <B>b. asd Bell</B>
+            <C>c. Thomsadasd Edison</C>
+            <D>d. Nisad Tesla</D>
+        </odpowiedzi>
+        <prawidlowa>a. sd</prawidlowa>
+    </pytanie>
+    <pytanie id = "3">
+        <tresc>Kto wygrał?</tresc>
+        <odpowiedzi>
+            <A>a. Tony Stark</A>
+            <B>b. asssd Bell</B>
+            <C>c. Thomsadasd Edissson</C>
+            <D>d. Nissad Tesla</D>
+        </odpowiedzi>
+        <prawidlowa>a. Tony Stark</prawidlowa>
+    </pytanie>
+</test>
